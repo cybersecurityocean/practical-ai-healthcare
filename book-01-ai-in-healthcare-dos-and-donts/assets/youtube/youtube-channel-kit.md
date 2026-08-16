@@ -106,7 +106,7 @@
 | 2 | Will AI Replace Doctors? The Honest Answer | 5–7 min | Future books |
 | 3 | Internal Server or Cloud for Hospital AI? | 5–7 min | Future books |
 
-**Format (all videos):** screen recording + your voice (or AI voice) over Canva slides. OBS/Loom to record, Canva for slides, CapCut to edit.
+**Format (all videos):** Talking-head podcast format. Voice cloned via Voicebox (local), video generated via SoulX-FlashHead (Colab free GPU), edited in CapCut. See `video-production-workflow.md` for full pipeline.
 
 ---
 
