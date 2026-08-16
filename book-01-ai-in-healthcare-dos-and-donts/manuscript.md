@@ -63,10 +63,10 @@ This book is deliberately anti-hype. It will not promise miracles. It will not s
 
 - What AI genuinely does well in healthcare today — honestly.
 - Where it fails, and why failures are almost never the algorithm's fault.
-- The practical boundaries — the do's and don'ts — that keep patients safe, data protected, and budgets from being burned.
+- The practical boundaries — the dos and don'ts — that keep patients safe, data protected, and budgets from being burned.
 - The rules and regulations you must respect, explained simply (HIPAA, GDPR, and India's DPDP Act 2023 among them).
 
-Who is this for? Hospital administrators and clinical leads being asked to "do AI." Business analysts and health-tech professionals who must scope and manage AI projects. Students and freshers entering the domain. Anyone who has been told "just implement AI" and wants to do it responsibly.
+Who is this for? Hospital administrators and clinical leads being asked to "do AI." Business analysts and health-tech professionals who must scope and manage AI projects. Students and newcomers entering the domain. Anyone who has been told "just implement AI" and wants to do it responsibly.
 
 What this book will NOT give you: code, mathematics, or promises. What it will give you: a framework for thinking, a checklist for acting, and honest answers.
 
@@ -195,7 +195,7 @@ The flashy "AI that diagnoses everything" projects are the ones that stall. Star
 
 ## Chapter 3: The Cost of Getting It Wrong
 
-This chapter is uncomfortable, and it is deliberately first in the parts that follow. Because the do's and don'ts in this book exist for one reason: **the failures are real, documented, and expensive.** Here are the categories of harm, with publicly reported examples.
+This chapter is uncomfortable, and it is deliberately first in the parts that follow. Because the dos and don'ts in this book exist for one reason: **the failures are real, documented, and expensive.** Here are the categories of harm, with publicly reported examples.
 
 > ⚠️ **Sensitivity disclaimer.** This chapter discusses real incidents and lawsuits in simplified summary. Details are presented only as publicly reported and are used for education — not to assign liability, and not as current facts. Specific findings, penalties, and rulings change over time. If you are handling a live dispute, breach, or investigation, stop reading and consult legal counsel immediately.
 
@@ -243,7 +243,7 @@ Almost never is the cause "the AI was too smart and did something unexpected." T
 
 Every one of those has a "do" and a "don't" attached to it in the rest of this book.
 
-**Chapter 3 takeaway:** The cost of getting AI wrong in healthcare is measured in patient harm, legal exposure, wasted money, and lost trust. The do's and don'ts that follow are not bureaucracy — they are the minimum price of doing this responsibly.
+**Chapter 3 takeaway:** The cost of getting AI wrong in healthcare is measured in patient harm, legal exposure, wasted money, and lost trust. The dos and don'ts that follow are not bureaucracy — they are the minimum price of doing this responsibly.
 
 ---
 
@@ -512,7 +512,7 @@ Run a **failure drill** the way hospitals run fire drills. Break it on purpose i
 
 ## Chapter 13: Don't Ignore Bias and Fairness
 
-**The trap.** "The AI is neutral — it's just math." Math inherits bias. From the data it was trained on, and from the choices its designers made. An AI that is "accurate overall" can be dangerously wrong for a specific group — and those are exactly the patients who suffer.
+**The trap.** "The AI is neutral — it's just math." Math inherits bias — from the data it was trained on, and from the choices its designers made. An AI that is "accurate overall" can be dangerously wrong for a specific group — and those are exactly the patients who suffer.
 
 **Real-world evidence.** The Obermeyer et al. algorithm (Chapter 3) used healthcare *costs* as a proxy for health needs, and systematically underestimated illness in Black patients — the patients who needed help most were flagged least. Pulse oximetry paired with AI interpretation proved less accurate in darker skin, risking missed dangerously low oxygen levels. Both failures were invisible to "overall accuracy."
 
@@ -520,7 +520,7 @@ Run a **failure drill** the way hospitals run fire drills. Break it on purpose i
 
 1. **Data bias.** The training data underrepresents certain groups — by ethnicity, gender, age, language, or insurance status. The model learns a distorted picture.
 2. **Design bias.** The choices designers make encode prejudice — like "cost as a proxy for need," which quietly bakes in historical inequity.
-3. **Deployment bias.** Who the tool is used on, and how, can differ from who it was built for. A model built on urban data used in a rural hospital is a deployment bias.
+3. **Deployment bias.** Who the tool is used on, and how, can differ from who it was built for. A model built on urban data used in a rural hospital is an example of deployment bias.
 
 **The guardrail.**
 
@@ -611,7 +611,7 @@ Run a **failure drill** the way hospitals run fire drills. Break it on purpose i
 
 **Autonomy.** Patients have the right to decide what happens to their bodies and their data. AI must not silently make decisions for them. Wherever AI meaningfully affects a patient's care, the patient should know that a machine was involved in the recommendation — and who the responsible human is.
 
-**Consent.** Informed consent in the AI era means explaining, in plain language, what the AI does, what data it uses, and who is accountable. "We're using AI" is not consent; "here is exactly how your data is used and why" is closer.
+**Consent.** Informed consent in the AI era means explaining, in plain language, what the AI does, what data it uses, and who is accountable. "We're using AI" is not consent; "here is exactly how your data is used, and why" is closer.
 
 **Transparency.** Tell patients and staff that AI is in use, and where. A patient who discovers an algorithm influenced their treatment through a news report has lost trust that no accuracy metric can restore.
 
@@ -627,7 +627,7 @@ Run a **failure drill** the way hospitals run fire drills. Break it on purpose i
 
 Its job: review problems (Chapter 4), data use (Chapter 11), bias (Chapter 13), explainability (Chapter 14), and impact before go-live — and again after incidents. If your organization is too small for a full committee, assign these questions to an existing governance group and record the answers.
 
-**The bottom line.** A project that is legal but untransparent, or accurate but unaccountable, has failed the patients it was meant to serve. Ethics is not a compliance box; it is the design of trust.
+**The bottom line.** A project that is legal but opaque, or accurate but unaccountable, has failed the patients it was meant to serve. Ethics is not a compliance box; it is the design of trust.
 
 ---
 
@@ -719,7 +719,7 @@ Run a small pilot with real users, human review on every output (Chapter 7), and
 
 **What 90 days buys you.** One proven win, a documented process, and the credibility to propose the next project. That is how responsible AI programs are built — one boring win at a time.
 
-**Next in this series.** This book was the *why* and the *do's and don'ts*. If you are ready to plan the full program — governance, vendor selection, rollout across departments — that is the subject of ***AI Implementation Roadmap for Hospitals*.** Meanwhile, ***Safeguarding Confidential Patient Data in the Age of AI*** goes deeper into the privacy and compliance boundaries you met in Chapter 15.
+**Next in this series.** This book was the *why* and the *dos and don'ts*. If you are ready to plan the full program — governance, vendor selection, rollout across departments — that is the subject of ***AI Implementation Roadmap for Hospitals*.** Meanwhile, ***Safeguarding Confidential Patient Data in the Age of AI*** goes deeper into the privacy and compliance boundaries you met in Chapter 15.
 
 ## Glossary
 
