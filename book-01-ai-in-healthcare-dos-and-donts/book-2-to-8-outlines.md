@@ -1,10 +1,10 @@
-# Books 2–5 — Outlines (ready for drafting after Book 1 launches)
+# Series Outlines (ready for drafting after the free guide launches)
 
-> Purpose: keep your 5-book pipeline moving. Book 1 (free) builds the audience; Books 2–5 (paid) earn revenue. Each outline locks: title, angle, audience, chapters, USP (why it stands out).
+> Purpose: keep your pipeline moving. The free guide builds the audience; future books (paid) earn revenue. Each outline locks: title, angle, audience, chapters, USP (why it stands out).
 
 ---
 
-## BOOK 2 — Safeguarding Confidential Patient Data in the Age of AI
+## Safeguarding Confidential Patient Data in the Age of AI
 
 **Tagline:** *A plain-language guide to data privacy, consent, and compliance for AI in healthcare.*
 **Audience:** Hospital IT/compliance staff, business analysts, AI teams, students.
@@ -25,11 +25,11 @@
 11. Training Data Legality: Can You Train on Patient Data?
 12. The Data-Safety Master Checklist (printable)
 
-**Cross-sell:** deep-dive on Chapter 15 of Book 1.
+**Cross-sell:** deep-dive on Chapter 15 of the free guide.
 
 ---
 
-## BOOK 3 — AI Implementation Roadmap for Hospitals
+## AI Implementation Roadmap for Hospitals
 
 **Tagline:** *From pilot to production — a step-by-step playbook for hospital leaders and analysts.*
 **Audience:** Hospital administrators, department heads, business analysts, project leads.
@@ -52,11 +52,11 @@
 13. Failure, Pause, and Rollback Protocols
 14. The 12-Month Implementation Roadmap (printable)
 
-**Cross-sell:** expands Chapter 18 of Book 1.
+**Cross-sell:** expands the 90-day roadmap chapter.
 
 ---
 
-## BOOK 4 — The AI-Powered Business Analyst in Healthcare
+## The AI-Powered Business Analyst in Healthcare
 
 **Tagline:** *How business analysts use AI to analyze, automate, and decide — a career-focused playbook.*
 **Audience:** Business analysts, freshers, career-switchers (your personal brand book).
@@ -70,7 +70,7 @@
 4. Process Mapping and Automation Opportunities
 5. Data Analysis for Healthcare: From Raw Data to Insight
 6. Building Decision Dashboards (with AI assistance)
-7. Scoping AI Projects: From Problem to Metrics (recap of Book 1 Ch 4)
+7. Scoping AI Projects: From Problem to Metrics (recap of the free guide's Ch 4)
 8. Writing the BRD/PRD for an AI Feature
 9. Testing and Validating AI Outputs as a BA
 10. Communicating AI Risk to Non-Technical Stakeholders
@@ -81,7 +81,7 @@
 
 ---
 
-## BOOK 5 — Prompt Engineering for Healthcare Business Analysts
+## Prompt Engineering for Healthcare Business Analysts
 
 **Tagline:** *Copy-paste prompt templates and frameworks for healthcare analysis work.*
 **Audience:** Business analysts, healthcare admin staff, students.
@@ -100,13 +100,13 @@
 9. Prompt Safety: Avoiding Hallucination and Patient-Data Leaks
 10. The 100-Prompt Appendix (printable)
 
-**Cross-sell:** the "hands-on" companion to Book 4.
+**Cross-sell:** the "hands-on" companion to the AI-Powered BA book.
 
 ---
 
 ---
 
-## BOOK 6 — Will AI Replace Healthcare Professionals?
+## Will AI Replace Healthcare Professionals?
 
 **Tagline:** *The honest answer about jobs, technology, and the future of care.*
 **Audience:** Clinicians, nurses, hospital staff, students, worried professionals — the widest audience of any book.
@@ -127,11 +127,11 @@
 11. The 10-Year Look-Ahead (Realistic, Not Science Fiction)
 12. Your Personal Action Plan (Printable)
 
-**Cross-sell:** the "human" companion to Book 1; great YouTube topic (below).
+**Cross-sell:** the "human" companion to the free guide; great YouTube topic (below).
 
 ---
 
-## BOOK 7 — Cloud vs. On-Premise AI for Healthcare
+## Cloud vs. On-Premise AI for Healthcare
 
 **Tagline:** *The infrastructure decision guide: security, cost, compliance, and control.*
 **Audience:** Hospital IT/security leads, business analysts, decision-makers scoping AI infrastructure.
@@ -152,11 +152,11 @@
 11. A Simple Comparison Scorecard (printable)
 12. Case Walkthrough: A Typical District Hospital Decision
 
-**Cross-sell:** infrastructure deep-dive tied to Book 1 Ch 15 (data/storage) and Book 2 (cross-border rules).
+**Cross-sell:** infrastructure deep-dive tied to the free guide's Ch 15 (data/storage) and the data privacy book (cross-border rules).
 
 ---
 
-## BOOK 8 — The Future of AI in Healthcare: The Next 5–10 Years
+## The Future of AI in Healthcare: The Next 5–10 Years
 
 **Tagline:** *An honest look ahead — what will change, what won't, and how to prepare.*
 **Audience:** Healthcare leaders, business analysts, students, and anyone planning a career or a hospital strategy around AI.
@@ -172,8 +172,8 @@
 6. Personalized Medicine: Genomics, Wearables, and AI Together
 7. The Data Challenge: Will the Data Be Ready?
 8. Regulation and Trust: How Laws Will Shape Adoption (DPDP, HIPAA, EU AI Act)
-9. The Workforce of the Future: Jobs, Skills, and New Roles (ties to Book 6)
-10. The Infrastructure Question: Cloud, On-Premise, and the Future Mix (ties to Book 7)
+9. The Workforce of the Future: Jobs, Skills, and New Roles (ties to the Will AI Replace Professionals book)
+10. The Infrastructure Question: Cloud, On-Premise, and the Future Mix (ties to the Cloud vs On-Premise book)
 11. Scenario Planning: Best Case, Base Case, and Worst Case
 12. Your 10-Year Personal & Organizational Action Plan (printable)
 
@@ -184,32 +184,32 @@
 ## YouTube Topic Bank (each of the above also becomes 3–6 videos)
 
 **Will AI Replace Humans? videos:**
-- "Will AI Replace Doctors? The Honest Answer" (anti-hype, drives Book 6)
+- "Will AI Replace Doctors? The Honest Answer" (anti-hype, drives the Will AI Replace Professionals book)
 - "5 Jobs in Healthcare That AI Will NOT Replace"
 - "Why AI Augments, Doesn't Replace: A Nurse's Case Study"
 
 **Cloud vs On-Premise videos:**
-- "Should Hospitals Deploy AI on an Internal Server or Cloud?" (drives Book 7)
+- "Should Hospitals Deploy AI on an Internal Server or Cloud?" (drives the Cloud vs On-Premise book)
 - "The 3 Questions That Decide Cloud vs On-Premise for AI"
 - "Data Residency Explained: Where Your Patient Data Can Live"
 
 **Future of AI videos:**
-- "AI in Healthcare in the Next 5 Years: What's Realistic" (drives Book 8)
+- "AI in Healthcare in the Next 5 Years: What's Realistic" (drives the Future of AI book)
 - "The 3 Predictions About Healthcare AI Most Likely to Come True"
 - "AI in Healthcare by 2035: Best Case vs Worst Case"
 
-**Deploy strategy:** after Book 1 launch, rotate Book 6 + Book 7 + Book 8 topics into the same 1–2 videos/week rhythm. One video topic per week per book keeps content fresh across all 8 books.
+**Deploy strategy:** after the free guide launch, rotate topics into the same 1–2 videos/week rhythm. One video topic per week keeps content fresh across the entire series.
 
 ---
 
-## Funnel Strategy (how the 8 books sell each other)
+## Funnel Strategy (how the books sell each other)
 
-- **Book 1 (FREE)** → collects emails + reviews + readers. Every book's final page lists the others.
-- **Books 2, 5, 6 (low price)** → impulse buys for the reader who liked Book 1.
-- **Books 3, 4, 7, 8 (higher price)** → the "authority" buys for serious readers.
-- **Book 4** → your resume/portfolio proof (most important for your career).
-- **Books 6 & 7** → widen the funnel to general healthcare staff (Book 6) and IT decision-makers (Book 7).
-- **Book 8** → the strategic capstone that positions you as a forward-thinking analyst.
+- **Free guide** → collects emails + reviews + readers. Every book's final page lists the others.
+- **Data privacy, Prompt engineering, Will AI Replace Professionals** (low price) → impulse buys for the reader who liked the free guide.
+- **Implementation Roadmap, AI-Powered BA, Cloud vs On-Premise, Future of AI** (higher price) → the "authority" buys for serious readers.
+- **AI-Powered BA** → your resume/portfolio proof (most important for your career).
+- **Will AI Replace Professionals & Cloud vs On-Premise** → widen the funnel to general healthcare staff and IT decision-makers.
+- **Future of AI** → the strategic capstone that positions you as a forward-thinking analyst.
 - Every launch re-promotes the previous books (LinkedIn/Pinterest/YouTube rotate).
 
 ## Placeholders to replace before publishing each book

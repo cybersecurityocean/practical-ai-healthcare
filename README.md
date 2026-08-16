@@ -1,12 +1,12 @@
-# Practical AI in Healthcare — Book Series
+# Practical AI in Healthcare
 
 Author: **Mohammed Imthiyaz A**
 Brand: **Practical AI Healthcare**
 Repo host: cybersecurityocean / practical-ai-healthcare
 
-An 8-book, no-hype series translating AI for healthcare and business audiences. Book 1 is complete; Books 2–8 are outlined.
+A no-hype series translating AI for healthcare and business audiences.
 
-## Book 1 — AI in Healthcare: The Do's and Don'ts
+## AI in Healthcare: The Do's and Don'ts
 
 - `book-01-ai-in-healthcare-dos-and-donts/manuscript.md` — full manuscript (18 chapters + disclaimers + checklist)
 - `book-01-ai-in-healthcare-dos-and-donts/publish-copy-kit.md` — Gumroad + Amazon KDP ready-to-paste listings
@@ -22,4 +22,4 @@ An 8-book, no-hype series translating AI for healthcare and business audiences. 
 ## Email policy
 
 - Public contact (audience): imthiyazzilaan@gmail.com
-- Publishing/account email: separate (used for Gumroad, Payhip, KDP, Google Drive, Pinterest)
+- Publishing/account email: cybersecurityocean@gmail.com (used for Gumroad, Payhip, KDP, Google Drive, Pinterest)

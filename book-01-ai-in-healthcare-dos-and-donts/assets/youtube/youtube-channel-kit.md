@@ -28,8 +28,8 @@
 >
 > On this channel: the practical do's and don'ts of AI in healthcare. No hype. No vendor promises. Just what keeps patients safe, data protected, and budgets from being burned.
 >
-> 📕 Free Book 1 → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
-> 📚 8-book Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
+> 📕 Free Guide → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
+> 📚 Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
 > 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-seven-ruby-43.vercel.app
 >
 > Business / contact: imthiyazzilaan@gmail.com
@@ -82,8 +82,8 @@
 
 > Where AI actually works in hospitals — and where it doesn't. 🏥
 >
-> 📕 Free Book 1 → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
-> 📚 The full 8-book series → [GUMROAD PROFILE LINK]
+> 📕 Free Guide → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
+> 📚 The full Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
 >
 > 0:00 Intro
 > 0:XX [section]
@@ -102,9 +102,9 @@
 
 | # | Title | Length | Drives → |
 |---|---|---|---|
-| 1 | AI in Healthcare: 15 Do's & Don'ts | 4–6 min | Book 1 (free guide) |
-| 2 | Will AI Replace Doctors? The Honest Answer | 5–7 min | Book 6 |
-| 3 | Internal Server or Cloud for Hospital AI? | 5–7 min | Book 7 |
+| 1 | AI in Healthcare: 15 Do's & Don'ts | 4–6 min | Free guide |
+| 2 | Will AI Replace Doctors? The Honest Answer | 5–7 min | Future books |
+| 3 | Internal Server or Cloud for Hospital AI? | 5–7 min | Future books |
 
 **Format (all videos):** screen recording + your voice (or AI voice) over Canva slides. OBS/Loom to record, Canva for slides, CapCut to edit.
 
@@ -150,7 +150,7 @@
 > - What the evidence shows: tools augment, they don't supplant; failures happen when the human leaves the loop.
 
 **Close:**
-> If you want the full breakdown — with the evidence — I wrote Book 6: "Will AI Replace Healthcare Professionals?" Link below. Free Book 1 also there.
+> If you want the full breakdown — with the evidence — I wrote a practical guide covering all of it. Link below.
 
 ---
 
@@ -168,7 +168,7 @@
 > Hybrid is often the answer: sensitive data on-premise, compute in cloud.
 
 **Close:**
-> The full decision framework — 15 questions and a scorecard — is in Book 7. Link below.
+> The full decision framework — 15 questions and a scorecard — is in the series. Link below.
 
 ---
 
@@ -176,6 +176,6 @@
 
 - **Rhythm:** 1–2 videos/week. Consistency beats polish.
 - **Thumbnails:** big text + book cover, Canva. E.g., "15 AI Mistakes in Hospitals".
-- **Pinned comment on every video:** "Free Book 1 → [GUMROAD LINK]".
+- **Pinned comment on every video:** "Free guide → [GUMROAD LINK]".
 - **Repurpose:** each video → 3 Pinterest pins + 1 LinkedIn post (rotate with launch kit).
 - **Monetization note:** not the goal (needs 1,000 subs / 4,000 hours). Videos drive book downloads + email list.

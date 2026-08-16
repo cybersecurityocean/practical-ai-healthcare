@@ -1,4 +1,4 @@
-# Book 1 — Publishing Copy Kit (ready to paste)
+# Publishing Copy Kit (ready to paste)
 
 > Use your **publishing email** (separate from `imthiyazzilaan@gmail.com`) for all account signups. `imthiyazzilaan@gmail.com` appears only where the audience contacts you. This file has everything to paste into Gumroad, Payhip, and Amazon KDP.
 
@@ -9,7 +9,7 @@
 - **Author name:** `Mohammed Imthiyaz A`
 - **Author tagline:** *10+ years in healthcare IT delivering zero-defect systems — now translating AI for healthcare, without the hype.*
 - **Author bio (short, for storefronts):**
-  > Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT — QA for Hospital Management Systems used in 150+ hospitals across 20+ countries, including Spark AI radiology reporting and human-in-the-loop automation tooling. This is Book 1 of his eight-part *Practical AI in Healthcare* series.
+  > Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT — QA for Hospital Management Systems used in 150+ hospitals across 20+ countries, including Spark AI radiology reporting and human-in-the-loop automation tooling. Part of the *Practical AI in Healthcare* series.
 
 ---
 
@@ -19,11 +19,11 @@
 |---|---|
 | **Title** | AI in Healthcare: The Do's and Don'ts |
 | **Subtitle** | A Practical Guide for Hospitals — Implementation, Ethics & Boundaries, Without the Hype |
-| **Series** | Practical AI in Healthcare — Book 1 |
+| **Series** | Practical AI in Healthcare |
 | **Gumroad slug (URL)** | ai-healthcare-dos-donts |
-| **Price** | $0 (free lead magnet) — Book 1 is your free email-catcher |
+| **Price** | $0 (free lead magnet) — free email-catcher |
 
-> Decision: **Book 1 = free.** Purpose: collect emails, reviews, and readers. Books 2–5 (paid) do the revenue. Gumroad lets you set $0 with optional "pay what you want" — enable that.
+> Decision: **This book = free.** Purpose: collect emails, reviews, and readers. Future books (paid) do the revenue. Gumroad lets you set $0 with optional "pay what you want" — enable that.
 
 ---
 
@@ -52,7 +52,7 @@
 > • Real, publicly documented case studies (IBM Watson, bias in algorithms, and more)
 > • A framework for thinking and a checklist for acting
 >
-> **About the author:** Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT, with QA for hospital systems used in 150+ hospitals across 20+ countries. This is Book 1 of his eight-part *Practical AI in Healthcare* series.
+> **About the author:** Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT, with QA for hospital systems used in 150+ hospitals across 20+ countries. Part of the *Practical AI in Healthcare* series.
 >
 > ⚠️ *Disclaimer: This book is for educational purposes only. It does not constitute medical, legal, regulatory, or financial advice. Always consult qualified professionals.*
 
@@ -79,7 +79,7 @@
 **Profile settings:**
 - [ ] Display name: `Mohammed Imthiyaz A`
 - [ ] Bio: author bio (Section 1)
-- [ ] Add all 8 books later to profile
+- [ ] Add all books later to profile
 
 **Payout:** connect PayPal/bank. Verify India payout support before relying on it. If Gumroad payout fails for India, keep Gumroad for the free book and sell paid books on Payhip.
 
@@ -114,7 +114,7 @@
 > • Business analysts and health-tech professionals
 > • Students and freshers entering the domain
 >
-> **About the author:** Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT, with QA for hospital systems used in 150+ hospitals across 20+ countries. This is Book 1 of his eight-part *Practical AI in Healthcare* series.
+> **About the author:** Mohammed Imthiyaz A is a Senior Quality Analyst & Business Analyst with 10+ years in healthcare IT, with QA for hospital systems used in 150+ hospitals across 20+ countries. Part of the *Practical AI in Healthcare* series.
 >
 > *Disclaimer: For educational purposes only. Not medical, legal, regulatory, or financial advice.*
 
@@ -139,7 +139,7 @@
 - [ ] DRM: OFF
 - [ ] KDP Select: **skip** (stay multi-platform)
 - [ ] AI content disclosure: answer honestly
-- [ ] Price: $4.99–$9.99 (70% royalty) — Book 1 may stay free/cheap; books 2–5 use this range
+- [ ] Price: $4.99–$9.99 (70% royalty) — this book may stay free/cheap; future books use this range
 - [ ] Tax (W-8BEN) + bank (India IFSC) filled in
 
 ---
@@ -152,7 +152,7 @@
 | **Title** | Big, bold, readable at thumbnail size |
 | **Subtitle** | Smaller, one line: "A Practical Guide for Hospitals — Without the Hype" |
 | **Author name** | Bottom: `Mohammed Imthiyaz A` |
-| **Series badge** | "Practical AI in Healthcare — Book 1" (small, top corner) |
+| **Series badge** | "Practical AI in Healthcare" (small, top corner) |
 | **Colors** | 1 strong primary (e.g., medical teal or deep blue) + white + one accent |
 | **Style** | Clean, professional, NOT clip-art. A subtle medical/tech motif (stethoscope + circuit line, or brain + data nodes) |
 | **Fonts** | 2 max — e.g., Montserrat (bold title) + Open Sans (body) |

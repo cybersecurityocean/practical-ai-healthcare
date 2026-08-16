@@ -20,12 +20,12 @@ Rule: never have only one copy. When you finish any edit, push to GitHub + uploa
 
 ## Option A — You keep everything local first, then connect to GitHub
 
-Run these in your terminal **inside the folder where your book files live** (e.g., `ebooks\book-1-dos-and-donts`):
+Run these in your terminal **inside the folder where your book files live** (e.g., `book-01-ai-in-healthcare-dos-and-donts`):
 
 ```bash
 git init
 git add .
-git commit -m "Book 1 manuscript + all assets"
+git commit -m "Manuscript + all assets"
 git branch -M main
 git remote add origin https://github.com/cybersecurityocean/practical-ai-healthcare.git
 git push -u origin main

@@ -2,7 +2,7 @@
 
 ### A Practical Guide for Hospitals — Implementation, Ethics & Boundaries, Without the Hype
 
-**Practical AI in Healthcare — Book 1**
+**Practical AI in Healthcare**
 
 **Mohammed Imthiyaz A**
 2026
@@ -43,7 +43,7 @@ This book is for educational purposes only. It does not constitute medical, lega
 15. The Regulatory Boundaries: HIPAA, GDPR, and India's DPDP Act 2023
 16. The Ethical Boundaries: Autonomy, Consent, and Transparency
 17. The 50-Point Master Do's & Don'ts Checklist
-18. Your First 90 Days: A Realistic Roadmap (Teaser for Book 3)
+18. Your First 90 Days: A Realistic Roadmap
 
 **Glossary | Further Reading | About the Author**
 
@@ -715,7 +715,7 @@ Run a small pilot with real users, human review on every output (Chapter 7), and
 
 **What 90 days buys you.** One proven win, a documented process, and the credibility to propose the next project. That is how responsible AI programs are built — one boring win at a time.
 
-**Next in this series.** This book was the *why* and the *do's and don'ts*. If you are ready to plan the full program — governance, vendor selection, rollout across departments — that is the subject of **Book 3: *AI Implementation Roadmap for Hospitals*.** Meanwhile, **Book 2: *Safeguarding Confidential Patient Data in the Age of AI*** goes deeper into the privacy and compliance boundaries you met in Chapter 15.
+**Next in this series.** This book was the *why* and the *do's and don'ts*. If you are ready to plan the full program — governance, vendor selection, rollout across departments — that is the subject of ***AI Implementation Roadmap for Hospitals*.** Meanwhile, ***Safeguarding Confidential Patient Data in the Age of AI*** goes deeper into the privacy and compliance boundaries you met in Chapter 15.
 
 ## Glossary
 
@@ -758,7 +758,7 @@ Run a small pilot with real users, human review on every output (Chapter 7), and
 
 His daily work sits exactly where this book does: between clinical workflows and technology, translating "we need better patient flow" into requirements developers can build, and validating AI-assisted tools with **human-in-the-loop controls**. He engineered an AI-assisted Python automation tool that eliminated a data-entry bottleneck while keeping a human confirmation step for sensitive data.
 
-This book is the first in his eight-part *Practical AI in Healthcare* series, written to translate AI for healthcare and business audiences — without hype. The series continues with *Safeguarding Confidential Patient Data in the Age of AI*, *AI Implementation Roadmap for Hospitals*, *The AI-Powered Business Analyst in Healthcare*, *Prompt Engineering for Healthcare Business Analysts*, *Will AI Replace Healthcare Professionals?*, *Cloud vs. On-Premise AI for Healthcare*, and *The Future of AI in Healthcare: The Next 5–10 Years*.
+This book is the first in his *Practical AI in Healthcare* series, written to translate AI for healthcare and business audiences — without hype. The series continues with *Safeguarding Confidential Patient Data in the Age of AI*, *AI Implementation Roadmap for Hospitals*, *The AI-Powered Business Analyst in Healthcare*, *Prompt Engineering for Healthcare Business Analysts*, *Will AI Replace Healthcare Professionals?*, *Cloud vs. On-Premise AI for Healthcare*, and *The Future of AI in Healthcare: The Next 5–10 Years*.
 
 Connect with the author:
 - Email: imthiyazzilaan@gmail.com
@@ -774,4 +774,4 @@ Connect with the author:
 
 ---
 
-*End of manuscript — Book 1 complete. Draft v1.0.*
+*End of manuscript — Draft v1.0.*

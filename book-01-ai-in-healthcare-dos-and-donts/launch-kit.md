@@ -1,6 +1,6 @@
-# Book 1 — Launch Kit (LinkedIn + Pinterest + YouTube)
+# Launch Kit (LinkedIn + Pinterest + YouTube)
 
-> Everything here is ready to post. No email needed to prepare it — you just log in with your ebook email tomorrow and post. Plan: **Book 1 (free) launches first**; these posts drive people to the Gumroad link.
+> Everything here is ready to post. No email needed to prepare it — you just log in with your ebook email tomorrow and post. Plan: **this book (free) launches first**; these posts drive people to the Gumroad link.
 
 ---
 
@@ -8,8 +8,8 @@
 
 **Profile setup (once):**
 - Headline: `Senior QA & Business Analyst | Healthcare IT | AI Automation | Author of practical AI-in-Healthcare guides`
-- About: your story (10+ years, 150+ hospitals, zero critical defects) + the 8-book series + "DM me for the free guide."
-- Featured: pin Book 1 cover.
+- About: your story (10+ years, 150+ hospitals, zero critical defects) + the series + "DM me for the free guide."
+- Featured: pin the cover.
 - Banner: "I write practical AI guides for healthcare — without the hype."
 
 **Hashtags to use (3–5 per post):** `#HealthcareAI #BusinessAnalysis #AIinHealthcare #HealthTech #DigitalHealth`
@@ -118,7 +118,7 @@
 
 > India's DPDP Act 2023 explained for AI projects — plain language. Free guide → [GUMROAD LINK] #healthcareai #dataprivacy #digitalhealth
 
-**Pins to make (20 total for Book 1):**
+**Pins to make (20 total):**
 - Checklist pin: "15 Do's & Don'ts of AI in Hospitals"
 - Quote pins: 5 strong lines from the book
 - How-to pins: "3 Steps to Protect Patient Data" / "Pick Your First AI Win"
@@ -138,9 +138,9 @@
 - Tools: OBS or Loom (free) to record; Canva for slides; CapCut (free) to edit.
 
 **First 3 videos (match your launch):**
-1. **"AI in Healthcare: 15 Do's & Don'ts"** (3–5 min) → pitch Book 1
-2. **"Where AI Actually Works in Hospitals"** (5 min) → pitch Book 1
-3. **"India's DPDP Act Explained for AI Projects"** (6 min) → teaser Book 2
+1. **"AI in Healthcare: 15 Do's & Don'ts"** (3–5 min) → pitch the free guide
+2. **"Where AI Actually Works in Hospitals"** (5 min) → pitch the free guide
+3. **"India's DPDP Act Explained for AI Projects"** (6 min) → pitch future books
 
 **Video structure (every video):**
 1. Hook (0–15s): "Hospitals are being told to do AI. Most will waste money. Here's why."

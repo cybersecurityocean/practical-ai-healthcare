@@ -59,7 +59,7 @@
 
 ## Key Projects (credible case studies for the books)
 
-- **AI-Assisted Master-Data Automation Tool** (Kamineni/TrioTree, 2024–present): Python + GitHub Copilot browser automation eliminating a data-entry bottleneck; human-in-the-loop validation. → *Perfect case study for Book 1 (Ch 6–7) and Book 4.*
+- **AI-Assisted Master-Data Automation Tool** (Kamineni/TrioTree, 2024–present): Python + GitHub Copilot browser automation eliminating a data-entry bottleneck; human-in-the-loop validation. → *Perfect case study for the do's and don'ts of AI implementation.*
 - **IdeaMed HMS** (151+ hospitals, 20+ countries): multi-tenant product, zero critical production defects.
 - **TrioTree + Spark AI** (7 branches): AI-based radiology report generation; paperless operations.
 
