@@ -432,6 +432,8 @@ Every one of those has a "do" and a "don't" attached to it in the rest of this b
 - [ ] Retirement and fallback plan documented
 - [ ] Near-misses reviewed monthly
 
+---
+
 ## Part III — The Don'ts
 
 ## Chapter 10: Don't Trust Vendor Hype or "AI-Washed" Products
@@ -547,6 +549,8 @@ Run a **failure drill** the way hospitals run fire drills. Break it on purpose i
 5. Tie explainability to your documentation duty (Chapter 8): the record should include *why* the system decided what it did, to the extent possible.
 
 **The bottom line.** Explainability is not an academic nicety. It is what turns a prediction into a decision a human can own — and defend.
+
+---
 
 ## Part IV — Boundaries & Compliance
 
