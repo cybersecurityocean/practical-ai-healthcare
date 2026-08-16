@@ -28,8 +28,8 @@
 >
 > On this channel: the practical do's and don'ts of AI in healthcare. No hype. No vendor promises. Just what keeps patients safe, data protected, and budgets from being burned.
 >
-> 📕 Free Guide → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
-> 📚 Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
+> 📕 Get the Guide → "AI in Healthcare: The Do's and Don'ts" → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
+> 📚 Practical AI in Healthcare series → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 > 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-imti1.vercel.app/
 >
 > Business / contact: imthiyazzilaan@gmail.com
@@ -82,8 +82,8 @@
 
 > Where AI actually works in hospitals — and where it doesn't. 🏥
 >
-> 📕 Free Guide → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
-> 📚 The full Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
+> 📕 Get the Guide → "AI in Healthcare: The Do's and Don'ts" → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
+> 📚 The full Practical AI in Healthcare series → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 >
 > 0:00 Intro
 > 0:XX [section]
@@ -176,6 +176,6 @@
 
 - **Rhythm:** 1–2 videos/week. Consistency beats polish.
 - **Thumbnails:** big text + book cover, Canva. E.g., "15 AI Mistakes in Hospitals".
-- **Pinned comment on every video:** "Free guide → [GUMROAD LINK]".
+- **Pinned comment on every video:** "Get the guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts".
 - **Repurpose:** each video → 3 Pinterest pins + 1 LinkedIn post (rotate with launch kit).
 - **Monetization note:** not the goal (needs 1,000 subs / 4,000 hours). Videos drive book downloads + email list.

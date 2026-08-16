@@ -17,14 +17,14 @@
 **Author links to attach to every post/profile:**
 - LinkedIn: https://linkedin.com/in/mohammed-imthiyaz-a-63266446
 - Portfolio: https://myportfolio-imti1.vercel.app/
-- Free book (Gumroad): [GUMROAD LINK]
+- Free book (Gumroad): https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 1 (launch day)**
 > I just published my first book: "AI in Healthcare: The Do's and Don'ts" 🏥
 >
 > Why I wrote it: every article I read was either too technical or too hyped. Nobody showed hospitals *what to actually do*.
 >
-> It's free. Get it here → [GUMROAD LINK]
+> It's free. Get it here → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 >
 > #HealthcareAI #BusinessAnalysis #AIinHealthcare
 
@@ -43,7 +43,7 @@
 > 10. Letting hype choose the project
 > ...(list to 15)
 >
-> The full checklist (50 points) is in my free guide → [GUMROAD LINK]
+> The full checklist (50 points) is in my free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 3 (analyst-angle)**
 > As a business analyst, here's the question I ask before any AI project in healthcare:
@@ -52,35 +52,35 @@
 >
 > If you can't answer that, the AI is decoration. A tool without a defined problem is just an expensive way to make mistakes faster.
 >
-> I wrote a practical no-hype guide covering all of this. Free → [GUMROAD LINK]
+> I wrote a practical no-hype guide covering all of this. Free → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 4 (myth-busting)**
 > Myth: "AI in healthcare = robots replacing doctors."
 >
 > Reality: most AI in hospitals today is administrative — documentation, scheduling, billing, dashboards. And that's exactly where business analysts live.
 >
-> The boring AI projects are the ones that actually work. My free guide explains why → [GUMROAD LINK]
+> The boring AI projects are the ones that actually work. My free guide explains why → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 5 (case study)**
 > IBM's Watson for Oncology recommended unsafe cancer treatments. Why? It was trained on one setting's data and deployed in another — without local validation.
 >
 > The lesson isn't "AI is useless." The lesson is: validate on YOUR data, keep a human in the loop.
 >
-> Full breakdown in my free guide → [GUMROAD LINK]
+> Full breakdown in my free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 6 (author journey — real authority)**
 > I've spent 10+ years making sure hospital software never fails patients — 150+ hospitals, zero critical production defects.
 >
 > And here's what the AI hype never tells you: most of AI's real value in healthcare isn't diagnosing cancer. It's automating the boring stuff — documentation, scheduling, billing — and it only works with a human in the loop.
 >
-> So I wrote the practical guide I wish existed: "AI in Healthcare: The Do's and Don'ts." Free → [GUMROAD LINK]
+> So I wrote the practical guide I wish existed: "AI in Healthcare: The Do's and Don'ts." Free → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 7 (data privacy)**
 > India's DPDP Act 2023 penalties can reach ₹250 crore.
 >
 > If you're building AI in healthcare, "we were just doing AI" is not a defense. You need: consent, data minimization, de-identification, vendor contracts, breach plans.
 >
-> I explain all of it in plain language in my free guide → [GUMROAD LINK]
+> I explain all of it in plain language in my free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 8 (90-day roadmap)**
 > Your first 90 days with AI in healthcare:
@@ -89,7 +89,7 @@
 > • Weeks 7–10: validate on your own data
 > • Weeks 11–12: small pilot, humans in the loop
 >
-> One proven win beats a grand strategy that never ships. Full roadmap in my free guide → [GUMROAD LINK]
+> One proven win beats a grand strategy that never ships. Full roadmap in my free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Daily habit (10 min):** comment thoughtfully on 5 posts in #HealthcareAI / #HealthTech / #BusinessAnalysis. Add value, never pitch in comments.
 
@@ -112,11 +112,11 @@
 **Pin design (Canva, free):** vertical 1000×1500px (2:3). Big title text + book cover or checklist image + small logo + "Get the Guide" overlay.
 
 **Pin descriptions (copy-paste, swap topic):**
-> AI in healthcare explained simply. ✓ Practical do's & don'ts for hospitals ✓ Data privacy under HIPAA, GDPR & DPDP ✓ 50-point checklist. Get the free guide → [GUMROAD LINK] #aiinhealthcare #healthcareai #businessanalyst
+> AI in healthcare explained simply. ✓ Practical do's & don'ts for hospitals ✓ Data privacy under HIPAA, GDPR & DPDP ✓ 50-point checklist. Get the free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts #aiinhealthcare #healthcareai #businessanalyst
 
-> Where AI actually works in hospitals (and where it fails) — honest guide. ✓ Administrative AI ✓ Bias audit ✓ 90-day roadmap. Free → [GUMROAD LINK] #healthcareai #aiinhealthcare
+> Where AI actually works in hospitals (and where it fails) — honest guide. ✓ Administrative AI ✓ Bias audit ✓ 90-day roadmap. Free → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts #healthcareai #aiinhealthcare
 
-> India's DPDP Act 2023 explained for AI projects — plain language. Free guide → [GUMROAD LINK] #healthcareai #dataprivacy #digitalhealth
+> India's DPDP Act 2023 explained for AI projects — plain language. Free guide → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts #healthcareai #dataprivacy #digitalhealth
 
 **Pins to make (20 total):**
 - Checklist pin: "15 Do's & Don'ts of AI in Hospitals"
@@ -148,7 +148,7 @@
 3. Close (last 20s): "If this helped, I wrote a practical guide covering all of it. Link below — it's free."
 
 **Where to put the pitch:**
-- Description first line: book title + [GUMROAD LINK]
+- Description first line: book title + https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 - Pinned comment: "Free guide → [LINK]"
 - End screen: "Get the free guide" card
 

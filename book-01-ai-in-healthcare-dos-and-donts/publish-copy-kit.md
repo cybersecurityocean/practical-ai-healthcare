@@ -21,9 +21,9 @@
 | **Subtitle** | A Practical Guide for Hospitals — Implementation, Ethics & Boundaries, Without the Hype |
 | **Series** | Practical AI in Healthcare |
 | **Gumroad slug (URL)** | ai-healthcare-dos-donts |
-| **Price** | $9.99 |
+| **Price** | $0 (free) |
 
-> Decision: **Price this book at $9.99.** This book earns revenue from day one. Future books will reference this one as the foundation. Gumroad lets you set any price — $9.99 is in the 70% royalty band on Amazon KDP.
+> Decision: **This book is free.** Purpose: collect emails, reviews, and readers. Future books (paid) earn revenue. Gumroad lets you set $0 with optional "pay what you want" — enable that.
 
 ---
 
@@ -64,6 +64,7 @@
 - [ ] Product type: **Digital content**
 - [ ] Name: *AI in Healthcare: The Do's and Don'ts*
 - [ ] URL slug: `ai-healthcare-dos-donts`
+- [ ] Live link: https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 - [ ] Price: **$0** + enable **"Pay what you want"**
 - [ ] Files to upload: `book1.pdf` + `book1.epub`
 - [ ] Cover: upload after design (specs below)
