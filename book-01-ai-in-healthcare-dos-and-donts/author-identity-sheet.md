@@ -15,9 +15,9 @@
 | **📧 Publishing/account email** | cybersecurityocean@gmail.com — Gumroad, Payhip, Amazon KDP, Google Drive, Pinterest, GitHub. |
 | **Phone** | +91-8695067338 |
 | **LinkedIn** | linkedin.com/in/mohammed-imthiyaz-a-63266446 |
-| **Portfolio** | myportfolio-seven-ruby-43.vercel.app |
+| **Portfolio** | https://myportfolio-imti1.vercel.app/ |
 | **GitHub (book repo)** | github.com/cybersecurityocean/practical-ai-healthcare (NEW — cyber-news-bot repo retired) |
-| **YouTube channel** | Practical AI Healthcare — @HealthAI_Insights |
+| **YouTube channel** | https://www.youtube.com/@HealthAI_Insights |
 | **Author brand mark** | Practical AI Healthcare |
 
 > **Email policy:** `imthiyazzilaan@gmail.com` appears ONLY where the audience needs to reach you (books' About page, YouTube About, video descriptions, contact forms). Every account/signup (Gumroad, Payhip, KDP, GitHub, Drive, Pinterest) uses the separate publishing email.

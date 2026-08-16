@@ -30,7 +30,7 @@
 >
 > 📕 Free Guide → "AI in Healthcare: The Do's and Don'ts" → [GUMROAD LINK]
 > 📚 Practical AI in Healthcare series → [GUMROAD PROFILE LINK]
-> 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-seven-ruby-43.vercel.app
+> 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-imti1.vercel.app/
 >
 > Business / contact: imthiyazzilaan@gmail.com
 ```

@@ -21,9 +21,9 @@
 | **Subtitle** | A Practical Guide for Hospitals — Implementation, Ethics & Boundaries, Without the Hype |
 | **Series** | Practical AI in Healthcare |
 | **Gumroad slug (URL)** | ai-healthcare-dos-donts |
-| **Price** | $0 (free lead magnet) — free email-catcher |
+| **Price** | $9.99 |
 
-> Decision: **This book = free.** Purpose: collect emails, reviews, and readers. Future books (paid) do the revenue. Gumroad lets you set $0 with optional "pay what you want" — enable that.
+> Decision: **Price this book at $9.99.** This book earns revenue from day one. Future books will reference this one as the foundation. Gumroad lets you set any price — $9.99 is in the 70% royalty band on Amazon KDP.
 
 ---
 
@@ -85,8 +85,8 @@
 
 **Author profile links to add:**
 - LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446
-- Portfolio → https://myportfolio-seven-ruby-43.vercel.app
-- YouTube → Practical AI Healthcare (search or @HealthAI_Insights)
+- Portfolio → https://myportfolio-imti1.vercel.app/
+- YouTube → https://www.youtube.com/@HealthAI_Insights
 
 ---
 

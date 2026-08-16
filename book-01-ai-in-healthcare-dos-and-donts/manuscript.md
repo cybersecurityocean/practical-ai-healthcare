@@ -762,9 +762,9 @@ This book is the first in his *Practical AI in Healthcare* series, written to tr
 
 Connect with the author:
 - Email: imthiyazzilaan@gmail.com
-- LinkedIn: linkedin.com/in/mohammed-imthiyaz-a-63266446
-- Portfolio: myportfolio-seven-ruby-43.vercel.app
-- YouTube: Practical AI Healthcare (@HealthAI_Insights)
+- LinkedIn: https://linkedin.com/in/mohammed-imthiyaz-a-63266446
+- Portfolio: https://myportfolio-imti1.vercel.app/
+- YouTube: https://www.youtube.com/@HealthAI_Insights
 
 ---
 
