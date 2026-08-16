@@ -768,7 +768,7 @@ Connect with the author:
 
 ---
 
-## Closing Disclaimer (safe to print on the back cover)
+## Closing Disclaimer
 
 > **Educational use only.** This book is for educational purposes and does not constitute medical, legal, regulatory, or financial advice. Laws and AI systems change rapidly; verify current requirements with qualified professionals before acting. The author is not a clinician, lawyer, or regulator, and accepts no liability for decisions made based on this material. Always keep a qualified human accountable for healthcare decisions — including decisions influenced by AI.
 
