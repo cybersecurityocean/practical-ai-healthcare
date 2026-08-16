@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2447"/>
+      <stop offset="0.55" stop-color="#19376D"/>
+      <stop offset="1" stop-color="#1F6F78"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4FD1C5"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4FD1C5" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#4FD1C5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotgrid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#FFFFFF" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="2560" height="1440" fill="url(#bg)"/>
+  <rect width="2560" height="1440" fill="url(#dotgrid)"/>
+  <circle cx="2100" cy="260" r="420" fill="url(#glow)"/>
+  <circle cx="360" cy="1180" r="500" fill="url(#glow)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="3">
+    <line x1="0" y1="720" x2="2560" y2="720"/>
+    <line x1="1280" y1="0" x2="1280" y2="1440"/>
+  </g>
+
+  <g fill="#FFFFFF" fill-opacity="0.18">
+    <circle cx="180" cy="220" r="6"/>
+    <circle cx="300" cy="80" r="4"/>
+    <circle cx="590" cy="310" r="5"/>
+    <circle cx="90" cy="520" r="4"/>
+    <circle cx="2320" cy="1180" r="6"/>
+    <circle cx="2480" cy="1330" r="4"/>
+    <circle cx="2150" cy="1290" r="5"/>
+    <circle cx="1990" cy="1380" r="4"/>
+  </g>
+
+  <g stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke-opacity="0.9">
+    <polyline points="0,1180 220,1180 300,1090 400,1300 480,1180 700,1180"/>
+    <polyline points="1860,1180 1990,1180 2040,1120 2090,1240 2140,1180 2560,1180" stroke-opacity="0.6"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="1280" y="620" font-size="44" letter-spacing="10" fill="#4FD1C5">MOHAMMED IMTHIYAZ A</text>
+
+    <text x="1280" y="750" font-size="130" font-weight="bold" fill="#FFFFFF">Practical AI Healthcare</text>
+
+    <text x="1280" y="858" font-size="52" fill="#B7E4EE">AI in Healthcare — Without the Hype</text>
+  </g>
+
+  <g transform="translate(1280,1050)">
+    <rect width="520" height="8" rx="4" fill="url(#accent)"/>
+  </g>
+
+  <g text-anchor="end" font-family="Arial, Helvetica, sans-serif">
+    <text x="2480" y="1340" font-size="34" fill="#7FA6B8">Practical AI in Healthcare · Book 1 of 8 · Free Guide ↓</text>
+  </g>
+</svg>
