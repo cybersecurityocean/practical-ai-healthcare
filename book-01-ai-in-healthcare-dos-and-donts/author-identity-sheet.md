@@ -15,7 +15,7 @@
 | **📧 Publishing/account email** | cybersecurityocean@gmail.com — Gumroad, Payhip, Amazon KDP, Google Drive, Pinterest, GitHub. |
 | **Phone** | +91-8695067338 |
 | **LinkedIn** | linkedin.com/in/mohammed-imthiyaz-a-63266446 |
-| **Portfolio** | https://myportfolio-imti1.vercel.app/ |
+| **Portfolio** | https://myportfolio-seven-ruby-43.vercel.app/ |
 | **GitHub (book repo)** | github.com/cybersecurityocean/practical-ai-healthcare (NEW — cyber-news-bot repo retired) |
 | **YouTube channel** | https://www.youtube.com/@HealthAI_Insights |
 | **Author brand mark** | Practical AI Healthcare |

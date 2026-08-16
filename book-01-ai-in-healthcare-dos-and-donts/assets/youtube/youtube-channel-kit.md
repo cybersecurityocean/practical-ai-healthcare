@@ -30,7 +30,7 @@
 >
 > 📕 Get the Guide → "AI in Healthcare: The Do's and Don'ts" → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 > 📚 Practical AI in Healthcare series → https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
-> 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-imti1.vercel.app/
+> 💼 LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446 · Portfolio → https://myportfolio-seven-ruby-43.vercel.app/
 >
 > Business / contact: imthiyazzilaan@gmail.com
 ```

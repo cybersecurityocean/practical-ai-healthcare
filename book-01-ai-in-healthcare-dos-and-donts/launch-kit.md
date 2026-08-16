@@ -16,7 +16,7 @@
 
 **Author links to attach to every post/profile:**
 - LinkedIn: https://linkedin.com/in/mohammed-imthiyaz-a-63266446
-- Portfolio: https://myportfolio-imti1.vercel.app/
+- Portfolio: https://myportfolio-seven-ruby-43.vercel.app/
 - Free book (Gumroad): https://cyberwave407.gumroad.com/l/ai-healthcare-dos-donts
 
 **Post 1 (launch day)**

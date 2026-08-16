@@ -86,7 +86,7 @@
 
 **Author profile links to add:**
 - LinkedIn → https://linkedin.com/in/mohammed-imthiyaz-a-63266446
-- Portfolio → https://myportfolio-imti1.vercel.app/
+- Portfolio → https://myportfolio-seven-ruby-43.vercel.app/
 - YouTube → https://www.youtube.com/@HealthAI_Insights
 
 ---
