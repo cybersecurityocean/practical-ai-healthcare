@@ -754,7 +754,7 @@ Run a small pilot with real users, human review on every output (Chapter 7), and
 
 ## About the Author
 
-**Mohammed Imthiyaz A** is a Senior Quality Analyst and Business Analyst with 10+ years in healthcare IT. He has been the last line of defense between software bugs and patient safety for Hospital Management Systems used across **150+ hospitals and 20+ countries** — including the IdeaMed multi-tenant HMS and TrioTree's Spark AI radiology reporting at Kamineni Hospitals.
+**Mohammed Imthiyaz A** is a Senior Quality Analyst and Business Analyst with 10+ years in healthcare IT. He has been the last line of defense between software bugs and patient safety for Hospital Management Systems used across **150+ hospitals and 20+ countries**.
 
 His daily work sits exactly where this book does: between clinical workflows and technology, translating "we need better patient flow" into requirements developers can build, and validating AI-assisted tools with **human-in-the-loop controls**. He engineered an AI-assisted Python automation tool that eliminated a data-entry bottleneck while keeping a human confirmation step for sensitive data.
 
@@ -765,6 +765,12 @@ Connect with the author:
 - LinkedIn: https://linkedin.com/in/mohammed-imthiyaz-a-63266446
 - Portfolio: https://myportfolio-imti1.vercel.app/
 - YouTube: https://www.youtube.com/@HealthAI_Insights
+
+---
+
+## Closing Disclaimer (safe to print on the back cover)
+
+> **Educational use only.** This book is for educational purposes and does not constitute medical, legal, regulatory, or financial advice. Laws and AI systems change rapidly; verify current requirements with qualified professionals before acting. The author is not a clinician, lawyer, or regulator, and accepts no liability for decisions made based on this material. Always keep a qualified human accountable for healthcare decisions — including decisions influenced by AI.
 
 ---
 
