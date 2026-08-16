@@ -12,7 +12,7 @@
 | **Headline** | Senior Quality Analyst & Business Analyst \| Healthcare IT \| AI-Driven Test & Process Automation |
 | **Location** | Hyderabad, India |
 | **📧 Public contact email (AUDIENCE only)** | imthiyazzilaan@gmail.com — for viewers/readers to contact you. NOT used for any account registrations. |
-| **📧 Publishing/account email (SEPARATE)** | [PENDING — you will provide] — used for Gumroad, Payhip, Amazon KDP, Google Drive, GitHub, Pinterest. |
+| **📧 Publishing/account email** | cybersecurityocean@gmail.com — Gumroad, Payhip, Amazon KDP, Google Drive, Pinterest, GitHub. |
 | **Phone** | +91-8695067338 |
 | **LinkedIn** | linkedin.com/in/mohammed-imthiyaz-a-63266446 |
 | **Portfolio** | myportfolio-seven-ruby-43.vercel.app |
