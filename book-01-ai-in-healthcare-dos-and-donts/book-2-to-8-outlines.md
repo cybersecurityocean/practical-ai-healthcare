@@ -4,7 +4,7 @@
 
 ---
 
-## Safeguarding Confidential Patient Data in the Age of AI
+## Stop AI From Leaking Patient Data: A Practical Guide for Healthcare Leaders
 
 **Tagline:** *A plain-language guide to data privacy, consent, and compliance for AI in healthcare.*
 **Audience:** Hospital IT/compliance staff, business analysts, AI teams, students.

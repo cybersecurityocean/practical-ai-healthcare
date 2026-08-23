@@ -67,7 +67,7 @@
 
 | # | Title | Status |
 |---|---|---|
-| 2 | Safeguarding Confidential Patient Data in the Age of AI | ✅ Manuscript done, publish kit + launch kit ready |
+| 2 | Stop AI From Leaking Patient Data: A Practical Guide for Healthcare Leaders | ✅ Manuscript done, publish kit + launch kit ready |
 | 3 | AI Implementation Roadmap for Hospitals | Outline done |
 | 4 | The AI-Powered Business Analyst in Healthcare | Outline done |
 | 5 | Prompt Engineering for Healthcare Business Analysts | Outline done |

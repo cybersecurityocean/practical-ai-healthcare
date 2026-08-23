@@ -1,6 +1,6 @@
-# Safeguarding Confidential Patient Data in the Age of AI
+# Stop AI From Leaking Patient Data
 
-### A Plain-Language Guide to Data Privacy, Consent, and Compliance for AI in Healthcare
+### A Practical Guide for Healthcare Leaders
 
 **Practical AI in Healthcare**
 

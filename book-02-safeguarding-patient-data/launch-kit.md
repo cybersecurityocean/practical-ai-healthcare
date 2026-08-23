@@ -24,7 +24,7 @@ And nobody asks:
 
 This is the gap that my new book fills.
 
-**Safeguarding Confidential Patient Data in the Age of AI** explains, in plain language:
+**Stop AI From Leaking Patient Data** explains, in plain language:
 - What "sensitive data" actually means (and it is broader than you think)
 - Why "de-identified" does not mean "safe"
 - The five questions every AI project must answer before touching patient data
@@ -48,7 +48,7 @@ In traditional healthcare IT, this is straightforward. In AI, it breaks.
 
 Because AI does not just "access" data. It ingests it. Copies it. Transforms it. Stores it in new locations. Embeds it in model weights that cannot be deleted.
 
-My new book, **Safeguarding Confidential Patient Data in the Age of AI**, maps every phase of this lifecycle — and where each one fails in AI projects.
+My new book, **Stop AI From Leaking Patient Data**, maps every phase of this lifecycle — and where each one fails in AI projects.
 
 The most dangerous moment? When someone says, "We deleted the data."
 
@@ -87,6 +87,8 @@ Most hospitals do not have consent forms that cover AI use.
 
 My new book explains this in plain language — with templates and checklists you can use today.
 
+**Stop AI From Leaking Patient Data** is available now.
+
 Link: [LINK]
 
 #DPDPAct #DataPrivacy #HealthcareAI #Consent #India #PatientData
@@ -105,7 +107,7 @@ Your AI vendor stores your patient data. But do you know:
 
 Most hospital teams cannot answer these questions.
 
-My new book, **Safeguarding Confidential Patient Data in the Age of AI**, includes a vendor due diligence checklist and contract essentials.
+My new book, **Stop AI From Leaking Patient Data**, includes a vendor due diligence checklist and contract essentials.
 
 Link: [LINK]
 
@@ -115,7 +117,7 @@ Link: [LINK]
 
 ### Post 5: The Checklist
 
-I have included a 50-point Data-Safety Master Checklist in my new book.
+I have included a 50-point Data-Safety Master Checklist in my new book, **Stop AI From Leaking Patient Data**.
 
 It covers:
 - Data identification and sensitivity mapping
@@ -142,7 +144,7 @@ I am not a lawyer. I am not a compliance officer.
 
 I am a Senior QA and Business Analyst with 10+ years in healthcare IT — someone who sits between technology and the real world, asking boring but essential questions.
 
-My new book, **Safeguarding Confidential Patient Data in the Age of AI**, is not legal advice. It is the practical framework I wish someone had given me before my first AI project.
+My new book, **Stop AI From Leaking Patient Data**, is not legal advice. It is the practical framework I wish someone had given me before my first AI project.
 
 No jargon. No hype. Just the questions you must answer — and the checklists to make sure you answer them.
 
@@ -158,7 +160,7 @@ Link: [LINK]
 
 **Title:** 50-Point Data Safety Checklist for Healthcare AI
 **Image text:** "Before your AI project touches patient data, complete this checklist."
-**Description:** Download the printable Data-Safety Master Checklist from Safeguarding Confidential Patient Data in the Age of AI. Covers legal basis, vendor management, access control, breach response, and more.
+**Description:** Download the printable Data-Safety Master Checklist from Stop AI From Leaking Patient Data. Covers legal basis, vendor management, access control, breach response, and more.
 **Board:** AI Tips
 **Link:** [LINK]
 
@@ -166,7 +168,7 @@ Link: [LINK]
 
 **Title:** "AI does not have a right to patient data."
 **Image text:** "AI does not have a right to patient data. Patient data has a right to protection from AI."
-**Description:** From Safeguarding Confidential Patient Data in the Age of AI — the new book in the Practical AI in Healthcare series.
+**Description:** From Stop AI From Leaking Patient Data — the new book in the Practical AI in Healthcare series.
 **Board:** AI Tips
 **Link:** [LINK]
 
@@ -174,7 +176,7 @@ Link: [LINK]
 
 **Title:** 5 Questions Before Any Healthcare AI Project
 **Image text:** "1. What data? 2. Where stored? 3. Who access? 4. Legal basis? 5. What happens when it ends?"
-**Description:** Every healthcare AI project must answer these five questions before touching patient data. Get the full framework in Safeguarding Confidential Patient Data in the Age of AI.
+**Description:** Every healthcare AI project must answer these five questions before touching patient data. Get the full framework in Stop AI From Leaking Patient Data.
 **Board:** How-To
 **Link:** [LINK]
 
@@ -182,7 +184,7 @@ Link: [LINK]
 
 **Title:** "De-identified" Does Not Mean "Safe"
 **Image text:** "Myth: Removing names makes data safe. Fact: Re-identification is easier than you think."
-**Description:** Learn why de-identified healthcare data can still be re-identified — and what to do about it. From Safeguarding Confidential Patient Data in the Age of AI.
+**Description:** Learn why de-identified healthcare data can still be re-identified — and what to do about it. From Stop AI From Leaking Patient Data.
 **Board:** Myths
 **Link:** [LINK]
 
@@ -190,7 +192,7 @@ Link: [LINK]
 
 **Title:** DPDP vs. HIPAA vs. GDPR — Key Differences
 **Image text:** "Three laws. Three regions. One framework to understand them all."
-**Description:** Side-by-side comparison of India's DPDP Act, HIPAA, and GDPR for healthcare AI projects. From Safeguarding Confidential Patient Data in the Age of AI.
+**Description:** Side-by-side comparison of India's DPDP Act, HIPAA, and GDPR for healthcare AI projects. From Stop AI From Leaking Patient Data.
 **Board:** Data Privacy
 **Link:** [LINK]
 
@@ -237,7 +239,7 @@ Can you use synthetic data or federated learning? Consider these alternatives.
 If none of these apply, you cannot train on patient data.
 
 [OUTRO]
-This is one of the topics covered in my new book, Safeguarding Confidential Patient Data in the Age of AI. Link in the description. Subscribe for more practical healthcare AI content.
+This is one of the topics covered in my new book, Stop AI From Leaking Patient Data. Link in the description. Subscribe for more practical healthcare AI content.
 
 ---
 
@@ -280,7 +282,7 @@ Confirm breach notification timeline.
 Confirm data return and deletion process.
 
 [OUTRO]
-This is covered in detail in my new book, Safeguarding Confidential Patient Data in the Age of AI. Link in the description.
+This is covered in detail in my new book, Stop AI From Leaking Patient Data. Link in the description.
 
 ---
 
@@ -317,7 +319,7 @@ Non-compliance can result in penalties up to INR 250 crore. The Data Protection 
 Map every data element you plan to use. Determine the legal basis. Update consent forms. Implement security safeguards. Document everything.
 
 [OUTRO]
-This is covered in detail in my new book, Safeguarding Confidential Patient Data in the Age of AI. Link in the description. Subscribe for more practical healthcare AI content.
+This is covered in detail in my new book, Stop AI From Leaking Patient Data. Link in the description. Subscribe for more practical healthcare AI content.
 
 ---
 
@@ -344,13 +346,13 @@ This is covered in detail in my new book, Safeguarding Confidential Patient Data
 
 ### To Existing List (if available)
 
-**Subject:** New book: Safeguarding Confidential Patient Data in the Age of AI
+**Subject:** New book: Stop AI From Leaking Patient Data
 
 **Body:**
 
 Hi [First Name],
 
-My new book is out: **Safeguarding Confidential Patient Data in the Age of AI**.
+My new book is out: **Stop AI From Leaking Patient Data: A Practical Guide for Healthcare Leaders**.
 
 It covers what happens to patient data in AI projects — and how to protect it. No legal jargon. No hype. Just the practical framework.
 
