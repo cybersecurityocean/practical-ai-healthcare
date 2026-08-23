@@ -29,7 +29,7 @@
 
 ---
 
-## AI Implementation Roadmap for Hospitals
+## Healthy AI Implementation Roadmap for Hospitals
 
 **Tagline:** *From pilot to production — a step-by-step playbook for hospital leaders and analysts.*
 **Audience:** Hospital administrators, department heads, business analysts, project leads.

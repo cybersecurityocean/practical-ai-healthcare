@@ -68,7 +68,7 @@
 | # | Title | Status |
 |---|---|---|
 | 2 | Stop AI From Leaking Patient Data: A Practical Guide for Healthcare Leaders | ✅ Manuscript done, publish kit + launch kit ready |
-| 3 | AI Implementation Roadmap for Hospitals | Outline done |
+| 3 | Healthy AI Implementation Roadmap for Hospitals | ✅ Manuscript done, publish kit + launch kit ready |
 | 4 | The AI-Powered Business Analyst in Healthcare | Outline done |
 | 5 | Prompt Engineering for Healthcare Business Analysts | Outline done |
 | 6 | Will AI Replace Healthcare Professionals? | Outline done |
@@ -218,7 +218,11 @@ practical-ai-healthcare/
 │           └── pin-templates.md
 ├── book-02-safeguarding-patient-data/
 │   ├── manuscript.md                    ← Main manuscript (1,111 lines, 12 chapters)
-│   ├── publish-copy-kit.md              ← Gumroad/KDP listing copy (ready)
+│   ├── publish-copy-kit.md              ← Gumroad/KDP/Google Play listing copy (ready)
+│   └── launch-kit.md                    ← LinkedIn + Pinterest + YouTube (ready)
+├── book-03-healthy-ai-implementation-roadmap/
+│   ├── manuscript.md                    ← Main manuscript (14 chapters)
+│   ├── publish-copy-kit.md              ← Gumroad/KDP/Google Play listing copy (ready)
 │   └── launch-kit.md                    ← LinkedIn + Pinterest + YouTube (ready)
 ```
 
