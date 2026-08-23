@@ -67,7 +67,7 @@
 
 | # | Title | Status |
 |---|---|---|
-| 2 | Safeguarding Confidential Patient Data in the Age of AI | Outline done |
+| 2 | Safeguarding Confidential Patient Data in the Age of AI | ✅ Manuscript done, publish kit + launch kit ready |
 | 3 | AI Implementation Roadmap for Hospitals | Outline done |
 | 4 | The AI-Powered Business Analyst in Healthcare | Outline done |
 | 5 | Prompt Engineering for Healthcare Business Analysts | Outline done |
@@ -165,19 +165,21 @@ f60836a Update URLs: YouTube + Portfolio
 ## 10. Pending Tasks
 
 ### 🔴 Urgent
-- [ ] Push remaining local commits (3 ahead)
-- [ ] Re-upload AI_in_Healthcare_Dos_and_Donts.pdf to Gumroad (replace old file)
+- [ ] Push Book 2 manuscript + publish kit + launch kit to GitHub
 - [ ] Create Pinterest account (cybersecurityocean@gmail.com)
 - [ ] Set up Payhip account
 - [ ] Set up Amazon KDP account
+- [ ] Create Book 2 cover (PNG — same series branding as Book 1)
 
 ### 🟡 Medium
-- [ ] Upload YouTube banner + profile pic (convert SVG → PNG first)
+- [ ] Upload Book 2 to Gumroad ($4.99)
+- [ ] Upload Book 2 to Amazon KDP
+- [ ] Convert Book 1 SVG assets to PNG (YouTube banner + profile pic)
 - [ ] Paste YouTube channel description + settings
 - [ ] Create first 20 Pinterest pins in Canva
-- [ ] Write Book 2 manuscript (Safeguarding Confidential Patient Data)
 - [ ] Record first YouTube video
 - [ ] Start LinkedIn posting
+- [ ] Write Book 3 manuscript (AI Implementation Roadmap for Hospitals)
 
 ### 🟢 Low
 - [ ] Buy USB mic (~$30-80)
@@ -214,6 +216,10 @@ practical-ai-healthcare/
 │       └── pinterest/
 │           ├── pinterest-strategy.md
 │           └── pin-templates.md
+├── book-02-safeguarding-patient-data/
+│   ├── manuscript.md                    ← Main manuscript (1,111 lines, 12 chapters)
+│   ├── publish-copy-kit.md              ← Gumroad/KDP listing copy (ready)
+│   └── launch-kit.md                    ← LinkedIn + Pinterest + YouTube (ready)
 ```
 
 ---
