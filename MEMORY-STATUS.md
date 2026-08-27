@@ -1,6 +1,6 @@
 # Practical AI Healthcare — Project Memory & Status
 
-> **Last updated:** August 16, 2026
+> **Last updated:** August 27, 2026
 > **Author:** Mohammed Imthiyaz A
 > **GitHub:** cybersecurityocean/practical-ai-healthcare
 
@@ -250,3 +250,55 @@ practical-ai-healthcare/
 - Old YouTube channel (cybersecurity news) → all old videos unlisted, channel rebranded
 - Old repo (cybersecurityocean/cyber-news-bot) → retired, content deleted
 - No vendor names (IdeaMed, TrioTree, Kamineni) in any public-facing content
+
+---
+
+## 14. Deepnote Server (Cat Podcast Pipeline)
+
+### Server Specs
+- **OS:** Debian 12 (bookworm)
+- **CPU:** AMD EPYC 7R13 (16 cores) @ 3.6GHz
+- **RAM:** 64GB
+- **GPU:** None (CPU-only)
+- **Purpose:** Cat podcast automation ONLY
+
+### Pipeline Repo
+- **GitHub:** https://github.com/imthi92/cat-podcast-voice-gen
+- **Local:** `C:\Users\Imtiyaz\Documents\cat-podcast-voice-gen`
+- **62+ commits, 11 episode scripts**
+
+### Setup on Deepnote (One Command)
+```bash
+bash -c '
+cd /root
+git clone https://github.com/imthi92/cat-podcast-voice-gen.git
+cd cat-podcast-voice-gen
+pip install -r automation/requirements.txt
+apt update && apt install -y ffmpeg
+echo "=== Cat Podcast Ready ==="
+'
+```
+
+### Fallback Chain (All Free)
+| Step | Method 1 | Method 2 | Method 3 |
+|---|---|---|---|
+| Audio | Coqui XTTS (Colab GPU) | Edge TTS (CPU) | gTTS (CPU) |
+| Video | SadTalker (Colab GPU) | DAWN (Colab GPU) | FFmpeg Ken Burns (CPU) |
+| Subtitles | Whisper (GPU) | faster-whisper (CPU) | whisper.cpp (CPU) |
+| Upload | YouTube API | yt-dlp | Manual |
+
+### Free GPU Sources
+| Source | GPU | Limit |
+|---|---|---|
+| Google Colab | T4/A100 | ~5-8 hrs/day |
+| Kaggle | P100/T4 | 30 hrs/week |
+| Lightning AI | T4 | 22 GPU hrs/month |
+
+### Server Loss Recovery
+If Deepnote server dies → new server → run setup command → everything restored from GitHub. All scripts, episodes, and configs are on GitHub. Only generated files (audio/video) need regeneration.
+
+### Recently Pushed
+- `setup.sh` — one-command Deepnote setup
+- `FALLBACK-PLAN.md` — complete fallback documentation
+- `automation/fallback_generator.py` — Python fallback chain
+- Updated `requirements.txt` — all dependencies
