@@ -1,0 +1,74 @@
+{
+  "outline": [
+    {"chapter": "Introduction: Why Most AI Projects Never Reach Production", "summary": "Sets the context: 85% of AI projects fail, and the root cause is organizational, not technical"},
+    {"chapter": "Chapter 1: Why Most AI Programs Fail (and How to Avoid It)", "summary": "Identifies the five root causes of AI failure and the avoidance framework"},
+    {"chapter": "Chapter 2: Building the AI Governance Structure", "summary": "Establishes the AI Steering Committee, RACI matrix, and governance charter"},
+    {"chapter": "Chapter 3: The Project Selection Matrix", "summary": "A weighted scoring system for selecting the right AI projects based on clinical need, feasibility, and ROI"},
+    {"chapter": "Chapter 4: Data Readiness", "summary": "A 5-dimension data readiness assessment with scoring thresholds and remediation planning"},
+    {"chapter": "Chapter 5: Make vs. Buy", "summary": "Decision framework for building, buying, or skipping AI solutions"},
+    {"chapter": "Chapter 6: Vendor Selection and Procurement", "summary": "A 5-step vendor selection process with assessment criteria and contract negotiation guidance"},
+    {"chapter": "Chapter 7: The Pilot Playbook", "summary": "Scope, metrics, and gate process for running a successful AI pilot"},
+    {"chapter": "Chapter 8: Integration", "summary": "Principles and checklist for integrating AI into clinical workflows"},
+    {"chapter": "Chapter 9: Change Management", "summary": "Framework for getting clinicians and staff onboard with AI"},
+    {"chapter": "Chapter 10: Measuring ROI", "summary": "Financial, clinical, and operational metrics framework with calculation templates"},
+    {"chapter": "Chapter 11: Scaling from One Win to a Department", "summary": "A phased approach to scaling AI from pilot to hospital-wide deployment"},
+    {"chapter": "Chapter 12: The Compliance and Ethics Gates", "summary": "Four compliance gates (data privacy, clinical safety, algorithmic fairness, explainability) and ethics framework"},
+    {"chapter": "Chapter 13: Failure, Pause, and Rollback Protocols", "summary": "Failure taxonomy, pause protocol, rollback protocol, and no-blame culture"},
+    {"chapter": "Chapter 14: The 12-Month Implementation Roadmap", "summary": "Month-by-month implementation timeline with actionable checklist"}
+  ],
+  "amazon": {
+    "title": "Healthy AI Implementation Roadmap for Hospitals",
+    "subtitle": "From Pilot to Production — A Step-by-Step Playbook for Hospital Leaders and Analysts",
+    "description": "<b>85% of AI projects never reach production.</b> This book explains why — and gives you the roadmap to be in the 15% that succeed.<br><br>Written by a Senior Quality Analyst and Business Analyst with 10+ years of experience across 150+ hospitals, this is not a technology book. It is an <b>organizational playbook</b> for implementing AI as a sustainable, measurable, compliant operational capability.<br><br><b>What you will learn:</b><br>• How to build the governance structure that makes AI projects accountable<br>• How to select the right projects (and say no to the wrong ones)<br>• How to assess data readiness before you spend a dollar<br>• How to decide between building and buying<br>• How to run a pilot that produces real evidence<br>• How to integrate AI into clinical workflows without disrupting care<br>• How to manage change and get clinicians on board<br>• How to measure ROI with metrics that matter<br>• How to scale from one successful pilot to department-wide deployment<br>• How to handle compliance, ethics, and failure<br><br><b>Includes practical templates:</b><br>• AI Governance Charter template<br>• Project Selection Matrix with scoring criteria<br>• Data Readiness Assessment (5 dimensions)<br>• RACI Matrix for AI projects<br>• Pilot Gate Process (3 gates)<br>• ROI Calculation Template<br>• 12-Month Implementation Roadmap with checklist<br><br><b>Part of the Practical AI in Healthcare series.</b><br>Book 1: AI in Healthcare — The Do's and Don'ts<br>Book 2: Stop AI From Leaking Patient Data<br>Book 3: Healthy AI Implementation Roadmap for Hospitals (this book)",
+    "keywords": [
+      "AI implementation healthcare",
+      "hospital AI roadmap",
+      "AI governance hospital",
+      "healthcare AI pilot",
+      "AI compliance healthcare",
+      "hospital digital transformation",
+      "clinical AI deployment"
+    ],
+    "categories": [
+      "Health Administration & Policy",
+      "Medical Technology"
+    ]
+  },
+  "gumroad": {
+    "title": "Healthy AI Implementation Roadmap for Hospitals",
+    "subtitle": "From Pilot to Production — A Step-by-Step Playbook for Hospital Leaders and Analysts",
+    "description": "# Healthy AI Implementation Roadmap for Hospitals\n\n## From Pilot to Production — A Step-by-Step Playbook for Hospital Leaders and Analysts\n\n**85% of AI projects never reach production.** This book explains why — and gives you the roadmap to be in the 15% that succeed.\n\nWritten by a Senior Quality Analyst with 10+ years across 150+ hospitals, this is an organizational playbook for implementing AI as a sustainable, measurable, compliant operational capability.\n\n### What's Inside\n\n- **Governance Structure** — AI Steering Committee, RACI matrix, governance charter\n- **Project Selection** — Weighted scoring matrix for picking the right projects\n- **Data Readiness** — 5-dimension assessment with scoring thresholds\n- **Make vs. Buy** — Decision framework for building, buying, or skipping\n- **Vendor Selection** — 5-step process with assessment criteria\n- **Pilot Playbook** — Scope, metrics, and 3-gate process\n- **Integration** — Principles and checklist for clinical workflows\n- **Change Management** — Getting clinicians and staff onboard\n- **ROI Measurement** — Financial, clinical, and operational metrics\n- **Scaling** — From pilot to department-wide deployment\n- **Compliance & Ethics** — 4 compliance gates and ethics framework\n- **Failure Protocols** — Pause, rollback, and no-blame culture\n- **12-Month Roadmap** — Month-by-month implementation timeline\n\n### Includes Practical Templates\n\n- AI Governance Charter\n- Project Selection Matrix\n- Data Readiness Assessment\n- RACI Matrix\n- Pilot Gate Process\n- ROI Calculation Template\n- 12-Month Implementation Roadmap\n\n### Part of the Practical AI in Healthcare Series\n\n- Book 1: AI in Healthcare — The Do's and Don'ts\n- Book 2: Stop AI From Leaking Patient Data\n- Book 3: Healthy AI Implementation Roadmap for Hospitals (this book)",
+    "tags": [
+      "AI implementation",
+      "healthcare",
+      "hospital management",
+      "AI governance",
+      "digital transformation",
+      "clinical AI",
+      "healthcare technology"
+    ]
+  },
+  "google_play": {
+    "title": "Healthy AI Implementation Roadmap for Hospitals",
+    "description": "A step-by-step playbook for hospital leaders and business analysts who want to implement AI as a sustainable, measurable, compliant operational capability. Covers governance, project selection, data readiness, vendor selection, pilot management, integration, change management, ROI measurement, scaling, compliance, ethics, and failure protocols. Includes practical templates and a 12-month implementation roadmap."
+  },
+  "about_author": "Mohammed Imthiyaz A is a Senior Quality Analyst and Business Analyst with more than ten years of experience in healthcare IT. He has worked on Hospital Management Systems and healthcare technology across more than 150 hospitals in over 20 countries. His work sits at the intersection of clinical workflows, business analysis, quality assurance and technology.\n\nThis is the third book in the Practical AI in Healthcare series. Mohammed has published two previous books in this series: AI in Healthcare — The Do's and Don'ts, and Stop AI From Leaking Patient Data. He can be reached at imthiyazzilaan@gmail.com.",
+  "front_disclaimer": "IMPORTANT NOTICE\n\nThis book is for educational purposes only. It does not constitute medical, legal, regulatory, or financial advice. AI implementation involves significant organizational, financial, and operational risks. Always consult with qualified professionals before making investment decisions.\n\nThe author is not a hospital administrator, investor, or regulator. No content in this book should be treated as a substitute for professional judgment.\n\nThe information in this book is provided as-is. The author makes no warranties or representations regarding the accuracy, completeness, or suitability of the information for any particular purpose.\n\nCopyright 2026 Mohammed Imthiyaz A. All rights reserved.",
+  "back_disclaimer": "Closing Disclaimer\n\nThe content of this book reflects the author's personal views and professional experience as of the date of publication. Healthcare regulations, AI technologies, and organizational best practices evolve rapidly. Readers should verify all information against current regulatory requirements and industry standards.\n\nCase studies, examples, and templates in this book are illustrative. Actual implementation decisions should be based on individual organizational context, regulatory requirements, and professional judgment.\n\nThe author and publisher assume no liability for any decisions made or actions taken based on the information in this book. Healthcare organizations remain solely accountable for their AI implementation decisions and outcomes.\n\nPractical AI in Healthcare series\nCopyright 2026 Mohammed Imthiyaz A. All rights reserved.",
+  "glossary": [
+    {"term": "AI Steering Committee", "definition": "The governance body that approves and oversees AI projects within a healthcare organization."},
+    {"term": "Clinical Champion", "definition": "A clinician who advocates for the AI project among peers and helps drive adoption."},
+    {"term": "Data Readiness Assessment", "definition": "Evaluation of data quality, availability, accessibility, governance, and volume before starting an AI project."},
+    {"term": "Gate", "definition": "A decision point where the Steering Committee decides to proceed, pivot, or terminate a project."},
+    {"term": "Governance Charter", "definition": "A formal document defining the Steering Committee's authority, scope, and processes."},
+    {"term": "Pilot", "definition": "A controlled experiment to test an AI solution in a real clinical setting before scaling."},
+    {"term": "POC (Proof of Concept)", "definition": "A limited test of technical feasibility to determine if a solution can work."},
+    {"term": "RACI Matrix", "definition": "Responsible, Accountable, Consulted, Informed — a responsibility assignment framework."},
+    {"term": "ROI (Return on Investment)", "definition": "The financial benefit of an AI project relative to its total cost."},
+    {"term": "Selection Matrix", "definition": "A weighted scoring framework for evaluating and prioritizing AI projects."},
+    {"term": "TCO (Total Cost of Ownership)", "definition": "All costs associated with an AI project over its entire lifecycle."},
+    {"term": "DPIA (Data Protection Impact Assessment)", "definition": "A formal assessment of data privacy risks for a project involving personal data."},
+    {"term": "BAA (Business Associate Agreement)", "definition": "A HIPAA-required contract between a healthcare organization and a vendor handling patient data."},
+    {"term": "AUC (Area Under the Curve)", "definition": "A performance metric for AI models measuring diagnostic accuracy across all thresholds."}
+  ]
+}

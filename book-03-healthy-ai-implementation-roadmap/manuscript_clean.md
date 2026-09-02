@@ -1,6 +1,6 @@
 # Healthy AI Implementation Roadmap for Hospitals
 
-## From Pilot to Production — A Step-by-Step Playbook for Hospital Leaders and Analysts
+## From Pilot to Production -- A Step-by-Step Playbook for Hospital Leaders and Analysts
 
 **Practical AI in Healthcare**
 
@@ -19,27 +19,27 @@ This book is for educational purposes only. It does not constitute medical, lega
 
 **Introduction: Why Most AI Projects Never Reach Production**
 
-**Part I — Before You Start**
+**Part I -- Before You Start**
 1. Why Most AI Programs Fail (and How to Avoid It)
 2. Building the AI Governance Structure
 3. The Project Selection Matrix: Picking Wins, Not Hype
 
-**Part II — The Foundation**
+**Part II -- The Foundation**
 4. Data Readiness: What You Need Before You Start
 5. Make vs. Buy: When to Build, When to Buy, When to Skip
 6. Vendor Selection and Procurement
 
-**Part III — The Pilot**
+**Part III -- The Pilot**
 7. The Pilot Playbook: Scope, Metrics, and Gates
 8. Integration: Making AI Fit Real Workflows
 9. Change Management: Getting Clinicians and Staff Onboard
 
-**Part IV — The Scale**
+**Part IV -- The Scale**
 10. Measuring ROI: The Metrics That Actually Matter
 11. Scaling from One Win to a Department
 12. The Compliance and Ethics Gates
 
-**Part V — When Things Go Wrong**
+**Part V -- When Things Go Wrong**
 13. Failure, Pause, and Rollback Protocols
 14. The 12-Month Implementation Roadmap
 
@@ -57,7 +57,7 @@ The problem is almost always organizational. Hospitals start AI projects without
 
 I have watched this pattern repeat across dozens of hospitals. Not as an AI researcher or a vendor, but as a business analyst sitting in the rooms where these decisions are made. And what I have learned is that the difference between AI projects that succeed and AI projects that fail is not the technology. It is the roadmap.
 
-This book is that roadmap. It is a step-by-step playbook for hospital leaders and business analysts who want to implement AI — not as a science experiment, but as a sustainable, measurable, compliant operational capability.
+This book is that roadmap. It is a step-by-step playbook for hospital leaders and business analysts who want to implement AI -- not as a science experiment, but as a sustainable, measurable, compliant operational capability.
 
 What you will learn:
 
@@ -80,7 +80,7 @@ One more thing:
 
 ---
 
-# Part I — Before You Start
+# Part I -- Before You Start
 
 ---
 
@@ -91,7 +91,7 @@ One more thing:
 Every failed AI project I have seen follows the same pattern:
 
 1. **Excitement:** Leadership reads an article, attends a conference, or hears a vendor pitch. "We need to do AI."
-2. **Selection:** Someone picks a project — usually the one with the best demo, not the one with the highest impact.
+2. **Selection:** Someone picks a project -- usually the one with the best demo, not the one with the highest impact.
 3. **Pilot:** A small team runs a pilot. It shows promising results on a limited dataset.
 4. **Expansion:** Leadership wants to scale. But the pilot was not designed for scale.
 5. **Friction:** Clinicians resist. Data quality issues emerge. Integration is harder than expected. Compliance questions arise.
@@ -121,7 +121,7 @@ Clinicians were not involved in the project from the start. They do not understa
 
 #### 5. No Measurement
 
-The pilot showed "promising results" — but nobody defined what success looks like in advance. There are no baseline metrics. There is no comparison to the current state. There is no way to prove the AI actually improved anything.
+The pilot showed "promising results" -- but nobody defined what success looks like in advance. There are no baseline metrics. There is no comparison to the current state. There is no way to prove the AI actually improved anything.
 
 ### The Avoidance Framework
 
@@ -165,7 +165,7 @@ Governance provides:
 
 ### The AI Steering Committee
 
-The core governance body is the AI Steering Committee. This is not a suggestion box — it is a decision-making body with authority.
+The core governance body is the AI Steering Committee. This is not a suggestion box -- it is a decision-making body with authority.
 
 **Composition:**
 
@@ -189,7 +189,7 @@ The core governance body is the AI Steering Committee. This is not a suggestion 
 
 ### The Governance Charter
 
-Every AI program needs a governance charter — a document that defines the committee's authority, scope, and processes.
+Every AI program needs a governance charter -- a document that defines the committee's authority, scope, and processes.
 
 ```
 AI GOVERNANCE CHARTER
@@ -222,7 +222,7 @@ For every AI project, define who is:
 
 The single most effective governance mechanism is simple: no AI project can proceed without Steering Committee approval. No exceptions.
 
-This eliminates the "shadow AI" problem — where departments run AI projects without organizational oversight, creating compliance risks and duplicating effort.
+This eliminates the "shadow AI" problem -- where departments run AI projects without organizational oversight, creating compliance risks and duplicating effort.
 
 ---
 
@@ -271,10 +271,10 @@ The Project Selection Matrix evaluates potential AI projects on three dimensions
 **Total Score = (Clinical Need x 0.4) + (Feasibility x 0.35) + (ROI Potential x 0.25)**
 
 **Decision thresholds:**
-- **4.0 - 5.0:** Approve — proceed to pilot
-- **3.0 - 3.9:** Conditional — address gaps before proceeding
-- **2.0 - 2.9:** Defer — revisit when conditions improve
-- **1.0 - 1.9:** Reject — not suitable for AI
+- **4.0 - 5.0:** Approve -- proceed to pilot
+- **3.0 - 3.9:** Conditional -- address gaps before proceeding
+- **2.0 - 2.9:** Defer -- revisit when conditions improve
+- **1.0 - 1.9:** Reject -- not suitable for AI
 
 ### Example Scoring
 
@@ -290,11 +290,11 @@ The Project Selection Matrix evaluates potential AI projects on three dimensions
 
 The matrix is as much about saying no as saying yes. Most hospitals have more AI opportunities than resources. The matrix helps you focus on the opportunities that will actually produce results.
 
-For every project you approve, you should reject or defer at least two. This is not pessimism — it is focus.
+For every project you approve, you should reject or defer at least two. This is not pessimism -- it is focus.
 
 ---
 
-# Part II — The Foundation
+# Part II -- The Foundation
 
 ---
 
@@ -363,10 +363,10 @@ Score each dimension from 1 (poor) to 5 (excellent):
 **Total Data Readiness Score = Sum of all five dimensions (5-25)**
 
 **Decision thresholds:**
-- **20-25:** Data is ready — proceed to pilot
-- **15-19:** Data needs preparation — address gaps before proceeding
-- **10-14:** Significant data work required — consider alternatives
-- **5-9:** Data is not ready — do not proceed with AI project
+- **20-25:** Data is ready -- proceed to pilot
+- **15-19:** Data needs preparation -- address gaps before proceeding
+- **10-14:** Significant data work required -- consider alternatives
+- **5-9:** Data is not ready -- do not proceed with AI project
 
 ### The Data Remediation Plan
 
@@ -508,7 +508,7 @@ Key contract terms:
 
 ---
 
-# Part III — The Pilot
+# Part III -- The Pilot
 
 ---
 
@@ -598,7 +598,7 @@ Do not force clinicians to switch systems. Integrate the AI into the tools they 
 
 #### 2. Minimize Clicks
 
-Every additional click reduces adoption. The ideal AI output requires zero additional clicks — it appears automatically in the existing workflow.
+Every additional click reduces adoption. The ideal AI output requires zero additional clicks -- it appears automatically in the existing workflow.
 
 #### 3. Provide Context
 
@@ -635,7 +635,7 @@ AI implementation is 20% technology and 80% people. The best AI solution is wort
 
 #### 1. Identify the Clinical Champion
 
-Every AI project needs a clinical champion — a physician or nurse leader who:
+Every AI project needs a clinical champion -- a physician or nurse leader who:
 - Believes in the project
 - Has credibility with peers
 - Can communicate the value
@@ -694,7 +694,7 @@ When the AI produces a good result, celebrate it publicly. Share the story. Show
 
 ---
 
-# Part IV — The Scale
+# Part IV -- The Scale
 
 ---
 
@@ -828,7 +828,7 @@ Just because the pilot succeeded does not mean you should scale immediately. The
 
 ### The Compliance Requirements
 
-Every AI project must pass compliance gates before deployment. These gates are not optional — they are legal requirements.
+Every AI project must pass compliance gates before deployment. These gates are not optional -- they are legal requirements.
 
 #### Gate 1: Data Privacy
 
@@ -873,7 +873,7 @@ Beyond compliance, every AI project should pass ethical review:
 
 ---
 
-# Part V — When Things Go Wrong
+# Part V -- When Things Go Wrong
 
 ---
 
@@ -1034,11 +1034,11 @@ MONTH 11-12: SCALE OR TERMINATE
 | **Gate** | A decision point where the Steering Committee decides to proceed, pivot, or terminate |
 | **Governance Charter** | Document defining the Steering Committee's authority and processes |
 | **Pilot** | A controlled experiment to test an AI solution in a real clinical setting |
-| **POC** | Proof of Concept — a limited test of technical feasibility |
-| **RACI** | Responsible, Accountable, Consulted, Informed — a responsibility assignment matrix |
-| **ROI** | Return on Investment — the financial benefit relative to cost |
+| **POC** | Proof of Concept -- a limited test of technical feasibility |
+| **RACI** | Responsible, Accountable, Consulted, Informed -- a responsibility assignment matrix |
+| **ROI** | Return on Investment -- the financial benefit relative to cost |
 | **Selection Matrix** | Framework for evaluating and prioritizing AI projects |
-| **TCO** | Total Cost of Ownership — all costs over the project lifecycle |
+| **TCO** | Total Cost of Ownership -- all costs over the project lifecycle |
 
 ---
 
@@ -1062,5 +1062,5 @@ This is the third book in the Practical AI in Healthcare series.
 
 ---
 
-*Practical AI in Healthcare — Healthy AI Implementation Roadmap for Hospitals*
+*Practical AI in Healthcare -- Healthy AI Implementation Roadmap for Hospitals*
 *Copyright 2026 Mohammed Imthiyaz A. All rights reserved.*
