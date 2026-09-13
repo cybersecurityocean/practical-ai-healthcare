@@ -2,26 +2,45 @@
 
 ## Gemini Image Prompt (Book Cover Generation)
 
-Create a premium ebook cover, portrait 1600x2400 pixels, photorealism with a subtle cinematic-digital finish (NOT cartoon, NOT illustration — a realistic, high-quality rendered look).
+**PROTECTED — Use for ALL future books (Book 4+)**
+
+```
+Create a premium ebook cover, portrait 1600x2400 pixels, photorealism with a
+subtle cinematic-digital finish (NOT cartoon, NOT illustration — a realistic,
+high-quality rendered look).
 
 COMPOSITION:
-- Background: deep navy #0B2447 with a soft glowing gradient, plus a delicate grid-dot technology pattern and faint bokeh light particles for depth.
-- A graceful, glowing ECG/heartbeat line in teal #4FD1C5 and sky blue #38BDF8 sweeps across the lower half in a smooth pulse.
-- A small, elegant medical-cross merged with a circuit node sits in the top-right corner as a subtle brand mark.
+- Background: deep navy #0B2447 with a soft glowing gradient, plus a delicate
+  grid-dot technology pattern and faint bokeh light particles for depth.
+- A graceful, glowing ECG/heartbeat line in teal #4FD1C5 and sky blue #38BDF8
+  sweeps across the lower half in a smooth pulse.
+- A small, elegant medical-cross merged with a circuit node sits in the
+  top-right corner as a subtle brand mark.
 
 PERSON (realistic photo):
-- Use the person from the uploaded reference photo — realistic, professional, approachable, wearing a smart blazer/shirt, confident warm smile, natural skin texture, soft studio lighting. Place them on the RIGHT side of the lower third, slightly overlapping into the cover, so they look like a real author portrait.
+- Use the person from the uploaded reference photo — realistic, professional,
+  approachable, wearing a smart blazer/shirt, confident warm smile, natural
+  skin texture, soft studio lighting. Place them on the RIGHT side of the
+  lower third, slightly overlapping into the cover, so they look like a real
+  author portrait.
 
 TEXT (single-line, spelled EXACTLY — do NOT wrap onto two lines):
-- Top-center, one line only, small, letterspaced, teal: PRACTICAL AI IN HEALTHCARE
-- Center, ONE single bold white line only, clearly readable: Healthy AI Implementation Roadmap for Hospitals
-- Below it, one line, medium, teal: From Pilot to Production — A Step-by-Step Playbook for Hospital Leaders and Analysts
-- Bottom, one line, medium, white: MOHAMMED IMTHIYAZ A
+- Top-center, one line only, small, letterspaced, teal:
+  PRACTICAL AI IN HEALTHCARE
+- Center, ONE single bold white line only, clearly readable:
+  [BOOK TITLE - update per book]
+- Below it, one line, medium, teal:
+  [SUBTITLE - update per book]
+- Bottom, one line, medium, white:
+  MOHAMMED IMTHIYAZ A
 
 DESIGN RULES:
 - Leave clean, uncluttered dark space behind all text so it is fully readable.
 - Balanced, symmetrical, attractive, high-end professional book cover.
 - No other words, watermarks, or logos. Cold, trustworthy, "no hype" mood.
+```
+
+**To use for Book 4+:** Copy prompt above, replace `[BOOK TITLE]` and `[SUBTITLE]`, paste into Gemini. Download 1600x2400 image, then use `generate_covers.py` to resize into all required formats (KDP, Gumroad, thumbnail, Google Play).
 
 ---
 
